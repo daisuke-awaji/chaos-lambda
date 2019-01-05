@@ -1,0 +1,5 @@
+{
+  "interval": "10",
+  "enableEc2TagNameValue": ["chaos-demo-ec2"],
+  "region": "us-east-1"
+}
